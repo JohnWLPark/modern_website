@@ -210,6 +210,14 @@ img {
 }
 
 
+/* Features */
+
+.features-head img {
+    width: 200px;
+    justify-self: flex-end;
+}
+
+
 
 /* Footer */
 
@@ -250,9 +258,6 @@ img {
         grid-row: 1;
     }
 }
-
-
-
 
 
 /* Mobile */
